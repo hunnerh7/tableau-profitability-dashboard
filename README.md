@@ -7,12 +7,17 @@ Interactive Tableau dashboard analyzing key drivers of profitability across prod
 
 ---
 
+## Business Question
+What factors drive profitability, and why do some high-sales products generate low or negative profit?
+
+---
+
 ## Dashboard Preview
 ![Dashboard](dashboard.png)
 
 ---
 
-## Key Insights
+## Key Findings
 - High sales does not always translate to high profit (e.g., Tables)
 - Technology drives the majority of profit across regions
 - Regional performance varies significantly, especially in Furniture
@@ -20,7 +25,8 @@ Interactive Tableau dashboard analyzing key drivers of profitability across prod
 ---
 
 ## Tools Used
-- Tableau
+- Tableau (data visualization)
+- Calculated fields (profit margin, aggregations)
 - Superstore Dataset
 
 ---
